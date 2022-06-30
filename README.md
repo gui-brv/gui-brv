@@ -1,3 +1,10 @@
+<style>
+.icons{
+  background: rgb(149,128,255);
+  background: linear-gradient(90deg, rgba(149,128,255,1) 0%, rgba(128,255,234,1) 100%);
+}
+</style>
+
 ### Olá, Bem-vindo a meu Github, eu sou Guilherme Viana!
 Sou Estudante de Engenharia de Software e Desenvolvedor Frontend.
 
@@ -18,7 +25,7 @@ Sou Estudante de Engenharia de Software e Desenvolvedor Frontend.
 
 ## My Skill Set  
 
-<div align="center">
+<div style="icons" align="center">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
@@ -43,5 +50,5 @@ Sou Estudante de Engenharia de Software e Desenvolvedor Frontend.
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+  <img style="margin: 10px icons" src="assets/markdown.svg" alt="Markdown" height="50" />
 </div>
